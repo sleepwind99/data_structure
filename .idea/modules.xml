@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assgin5/Assgin5.iml" filepath="$PROJECT_DIR$/Assgin5/Assgin5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assginment5/Assginment5.iml" filepath="$PROJECT_DIR$/Assginment5/Assginment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment.iml" filepath="$PROJECT_DIR$/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment6/Assignment6.iml" filepath="$PROJECT_DIR$/Assignment6/Assignment6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dijkstra/dijkstra.iml" filepath="$PROJECT_DIR$/dijkstra/dijkstra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kruskal/kruskal.iml" filepath="$PROJECT_DIR$/kruskal/kruskal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prim/prim.iml" filepath="$PROJECT_DIR$/prim/prim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/red-black tree/red-black tree.iml" filepath="$PROJECT_DIR$/red-black tree/red-black tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topological sort/topological sort.iml" filepath="$PROJECT_DIR$/topological sort/topological sort.iml" />
+    </modules>
+  </component>
+</project>
